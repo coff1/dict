@@ -1,0 +1,1 @@
+dirsearch_dict.txt dirsearch的目录字典，可放到burp爆破  
